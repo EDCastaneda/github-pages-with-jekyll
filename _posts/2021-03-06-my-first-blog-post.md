@@ -1,3 +1,8 @@
+---
+title: "First post"
+date: 2021-03-06
+---
+
 # Markdown
 
 Enable GitHub Pages from [tutorial](https://github.com/EDCastaneda/markdown-portfolio/issues/5)
