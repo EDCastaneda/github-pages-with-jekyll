@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Setting up GitHub Pages
 
-I'm glad you are here. I plan to talk about ...
+Testing first commit
